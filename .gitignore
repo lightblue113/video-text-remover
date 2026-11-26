@@ -1,0 +1,10 @@
+/venv
+/.venv
+/output
+/video
+log
+__pycache__/
+*.py
+!/text_remover.py
+!/locate_pixel.py
+!/text_tools/*.py
